@@ -1,0 +1,82 @@
+[
+  {
+    "station": "R K Puram, Delhi",
+    "location_id": 17,
+    "sensor_id": 35,
+    "parameter": "pm25",
+    "value": 195.0,
+    "unit": "\u00b5g/m\u00b3",
+    "timestamp_utc": "2016-02-05T14:40:00Z",
+    "fetched_at": "2026-09-09T22:23:41.738083"
+  },
+  {
+    "station": "Punjabi Bagh, Delhi",
+    "location_id": 50,
+    "sensor_id": 396,
+    "parameter": "pm25",
+    "value": 124.0,
+    "unit": "\u00b5g/m\u00b3",
+    "timestamp_utc": "2016-02-05T14:40:00Z",
+    "fetched_at": "2026-09-09T22:23:56.240701"
+  },
+  {
+    "station": "Anand Vihar, New Delhi",
+    "location_id": 235,
+    "sensor_id": 384,
+    "parameter": "pm25",
+    "value": 132.0,
+    "unit": "\u00b5g/m\u00b3",
+    "timestamp_utc": "2016-02-05T14:00:00Z",
+    "fetched_at": "2026-09-09T22:24:04.355652"
+  },
+  {
+    "station": "Vikas Sadan, Gurugram",
+    "location_id": 301,
+    "sensor_id": 14258988,
+    "parameter": "pm25",
+    "value": 0.0,
+    "unit": "\u00b5g/m\u00b3",
+    "timestamp_utc": "2025-10-01T06:30:00Z",
+    "fetched_at": "2026-09-09T22:24:11.219166"
+  },
+  {
+    "station": "Zoo Park, Hyderabad",
+    "location_id": 407,
+    "sensor_id": 12235583,
+    "parameter": "pm25",
+    "value": 63.0,
+    "unit": "\u00b5g/m\u00b3",
+    "timestamp_utc": "2025-02-18T20:00:00Z",
+    "fetched_at": "2026-09-09T22:24:16.775855"
+  },
+  {
+    "station": "Sanjay Palace, Agra",
+    "location_id": 860,
+    "sensor_id": 1545,
+    "parameter": "pm25",
+    "value": 20.0,
+    "unit": "\u00b5g/m\u00b3",
+    "timestamp_utc": "2016-03-22T00:05:00Z",
+    "fetched_at": "2026-09-09T22:24:23.767791"
+  },
+  {
+    "station": "Manali, Chennai",
+    "location_id": 2586,
+    "sensor_id": 14319,
+    "parameter": "pm25",
+    "value": 63.84,
+    "unit": "\u00b5g/m\u00b3",
+    "timestamp_utc": "2017-02-18T21:00:00Z",
+    "fetched_at": "2026-09-09T22:24:27.517977"
+  },
+  {
+    "station": "Sector-125, Noida",
+    "location_id": 5598,
+    "sensor_id": 12235187,
+    "parameter": "pm25",
+    "value": 32.0,
+    "unit": "\u00b5g/m\u00b3",
+    "timestamp_utc": "2025-02-18T20:00:00Z",
+    "fetched_at": "2026-09-09T22:24:32.035064"
+  }
+]

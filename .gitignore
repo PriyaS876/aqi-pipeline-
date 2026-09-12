@@ -1,0 +1,17 @@
+# Environment / secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Spark
+checkpoint/
+
+# Airflow local state
+dags/__pycache__/
+
+# Editor/OS files
+.vscode/
+.DS_Store
