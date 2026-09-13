@@ -134,6 +134,33 @@ aqi-pipeline/
 ```
 
 ---
+## Viewing the Dashboard (Local Setup)
+
+1. **Start the Docker containers**
+
+docker-compose up -d
+
+   This will start Kafka, Spark, Postgres, and Grafana in the background.
+
+2. **Verify all containers are running**
+
+docker ps
+
+   The `grafana` container should show status "Up".
+
+3. **Open in browser**
+
+http://localhost:3000
+
+
+4. **Log in**
+   - Username: `admin`
+   - Password: `admin`
+   (On first login you may be prompted to change the password — this can be skipped or set as needed)
+
+5. **Find the dashboard**
+   Click "Dashboards" in the sidebar and select the AQI dashboard.
+
 
 ## Setup instructions
 
